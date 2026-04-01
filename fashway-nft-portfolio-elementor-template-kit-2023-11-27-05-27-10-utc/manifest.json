@@ -1,0 +1,635 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Fashway - NFT Portfolio Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/ibeydesign.com\/fashway",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/ibeydesign.com\/fashway\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/ibeydesign.com\/fashway\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire Site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage - Hero Layout - Block",
+            "screenshot": "screenshots\/homepage-hero-layout-block.jpg",
+            "source": "templates\/homepage-hero-layout-block.json",
+            "preview_url": "https:\/\/ibeydesign.com\/fashway\/index.php\/template-kit\/homepage-hero-layout-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-hero",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage - Faqs - Block",
+            "screenshot": "screenshots\/homepage-faqs-block.jpg",
+            "source": "templates\/homepage-faqs-block.json",
+            "preview_url": "https:\/\/ibeydesign.com\/fashway\/index.php\/template-kit\/homepage-faqs-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-faq",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/ibeydesign.com\/fashway\/index.php\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Page - Core Value - Block",
+            "screenshot": "screenshots\/about-page-core-value-block.jpg",
+            "source": "templates\/about-page-core-value-block.json",
+            "preview_url": "https:\/\/ibeydesign.com\/fashway\/index.php\/template-kit\/about-page-core-value-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-other",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About Page",
+            "screenshot": "screenshots\/about-page.png",
+            "source": "templates\/about-page.json",
+            "preview_url": "https:\/\/ibeydesign.com\/fashway\/index.php\/template-kit\/about-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Whitepaper Page",
+            "screenshot": "screenshots\/whitepaper-page.png",
+            "source": "templates\/whitepaper-page.json",
+            "preview_url": "https:\/\/ibeydesign.com\/fashway\/index.php\/template-kit\/whitepaper-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Project Page",
+            "screenshot": "screenshots\/project-page.png",
+            "source": "templates\/project-page.json",
+            "preview_url": "https:\/\/ibeydesign.com\/fashway\/index.php\/template-kit\/project-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Archive News",
+            "screenshot": "screenshots\/archive-news.png",
+            "source": "templates\/archive-news.json",
+            "preview_url": "https:\/\/ibeydesign.com\/fashway\/?elementor_library=archive-news",
+            "type": "archive",
+            "category": "page",
+            "metadata": {
+                "template_type": "archive-blog",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "archive",
+                "elementor_pro_conditions": [
+                    "include\/archive"
+                ],
+                "additional_template_information": [
+                    "This is a \"Archive\" template for Elementor Pro.",
+                    "This template will display on: All Archives."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.png",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/ibeydesign.com\/fashway\/?elementor_library=single-post",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Contact Page",
+            "screenshot": "screenshots\/contact-page.png",
+            "source": "templates\/contact-page.json",
+            "preview_url": "https:\/\/ibeydesign.com\/fashway\/index.php\/template-kit\/contact-page\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1"
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "404 Template",
+            "screenshot": "screenshots\/404-template.png",
+            "source": "templates\/404-template.json",
+            "preview_url": "https:\/\/ibeydesign.com\/fashway\/?elementor_library=404-template",
+            "type": "error-404",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "error-404",
+                "elementor_pro_conditions": [
+                    "include\/singular\/not_found404"
+                ],
+                "additional_template_information": [
+                    "This is a \"Error 404\" template for Elementor Pro.",
+                    "This template will display on: 404 Page."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor Pro",
+            "version": "3.6.3",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.6.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.6.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Premium Addons for Elementor",
+            "version": "4.9.15",
+            "file": "premium-addons-for-elementor\/premium-addons-for-elementor.php",
+            "author": "Leap13"
+        }
+    ],
+    "images": [
+        {
+            "filename": "27.jpg",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/27-800x1215.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/project-page.json",
+                    "name": "Project Page"
+                }
+            ],
+            "filesize": 117818,
+            "dimensions": [
+                804,
+                1221
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-trendy-fashion-portraits-cover-set_15694614.htm#&position=1&from_view=undefined"
+        },
+        {
+            "filename": "25.jpg",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/25-800x1215.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/project-page.json",
+                    "name": "Project Page"
+                }
+            ],
+            "filesize": 163154,
+            "dimensions": [
+                804,
+                1221
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-trendy-fashion-portraits-cover-set_15694614.htm#&position=1&from_view=undefined"
+        },
+        {
+            "filename": "23.jpg",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/23-800x1215.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 137446,
+            "dimensions": [
+                804,
+                1221
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-trendy-fashion-portraits-cover-set_15694614.htm#&position=1&from_view=undefined"
+        },
+        {
+            "filename": "20.jpg",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/20-800x1215.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/project-page.json",
+                    "name": "Project Page"
+                }
+            ],
+            "filesize": 67265,
+            "dimensions": [
+                804,
+                1221
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-trendy-fashion-portraits-cover-pack_15694617.htm#&position=3&from_view=undefined"
+        },
+        {
+            "filename": "19.jpg",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/19-800x1213.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/project-page.json",
+                    "name": "Project Page"
+                }
+            ],
+            "filesize": 135238,
+            "dimensions": [
+                803,
+                1218
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-trendy-fashion-portraits-cover-pack_15694617.htm#&position=3&from_view=undefined"
+        },
+        {
+            "filename": "12.jpg",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/12.jpg",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/homepage-hero-layout-block.json",
+                    "name": "Homepage - Hero Layout - Block"
+                }
+            ],
+            "filesize": 141386,
+            "dimensions": [
+                800,
+                1050
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-trendy-fashion-portraits-cover-pack_15694617.htm#&position=3&from_view=undefined"
+        },
+        {
+            "filename": "16.png",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/16.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage-hero-layout-block.json",
+                    "name": "Homepage - Hero Layout - Block"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 188791,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-trendy-fashion-portraits-cover-pack_15694617.htm#&position=3&from_view=undefined"
+        },
+        {
+            "filename": "13.jpg",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/13-800x1050.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-hero-layout-block.json",
+                    "name": "Homepage - Hero Layout - Block"
+                }
+            ],
+            "filesize": 192635,
+            "dimensions": [
+                1201,
+                1576
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-trendy-fashion-portraits-cover-pack_15694617.htm#&position=3&from_view=undefined"
+        },
+        {
+            "filename": "14.jpg",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/14-800x317.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage-hero-layout-block.json",
+                    "name": "Homepage - Hero Layout - Block"
+                }
+            ],
+            "filesize": 97439,
+            "dimensions": [
+                1661,
+                658
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-trendy-fashion-portraits-cover-pack_15694617.htm#&position=3&from_view=undefined"
+        },
+        {
+            "filename": "17.jpg",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/17.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page-core-value-block.json",
+                    "name": "About Page - Core Value - Block"
+                }
+            ],
+            "filesize": 70940,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-trendy-fashion-portraits-cover-pack_15694617.htm#&position=3&from_view=undefined"
+        },
+        {
+            "filename": "32-min-1.png",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/32-min-1-800x794.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 57919,
+            "dimensions": [
+                1920,
+                1906
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "34.png",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/34.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page-core-value-block.json",
+                    "name": "About Page - Core Value - Block"
+                }
+            ],
+            "filesize": 306498,
+            "dimensions": [
+                550,
+                550
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-trendy-fashion-portraits-cover-set_15694614.htm#&position=1&from_view=undefined"
+        },
+        {
+            "filename": "35.png",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/35.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                },
+                {
+                    "source": "templates\/about-page-core-value-block.json",
+                    "name": "About Page - Core Value - Block"
+                }
+            ],
+            "filesize": 295782,
+            "dimensions": [
+                550,
+                550
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-trendy-fashion-portraits-cover-set_15694614.htm#&position=1&from_view=undefined"
+        },
+        {
+            "filename": "37.png",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/37-800x325.png",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 275580,
+            "dimensions": [
+                1661,
+                675
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-trendy-fashion-portraits-cover-pack_15694617.htm#&position=3&from_view=undefined"
+        },
+        {
+            "filename": "38.jpg",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/38-800x268.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 408429,
+            "dimensions": [
+                1920,
+                642
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-trendy-fashion-portraits-cover-set_15694614.htm#&position=1&from_view=undefined"
+        },
+        {
+            "filename": "18-1.jpg",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/18-1-800x1213.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-page.json",
+                    "name": "Project Page"
+                }
+            ],
+            "filesize": 172570,
+            "dimensions": [
+                803,
+                1218
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-trendy-fashion-portraits-cover-pack_15694617.htm#&position=3&from_view=undefined"
+        },
+        {
+            "filename": "29.jpg",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/29-800x1215.jpg",
+            "templates": [
+                {
+                    "source": "templates\/project-page.json",
+                    "name": "Project Page"
+                }
+            ],
+            "filesize": 128728,
+            "dimensions": [
+                804,
+                1221
+            ],
+            "image_source": "cc0",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/www.freepik.com\/free-vector\/flat-trendy-fashion-portraits-cover-set_15694614.htm#&position=1&from_view=undefined"
+        },
+        {
+            "filename": "1.png",
+            "thumbnail_url": "https:\/\/ibeydesign.com\/fashway\/wp-content\/uploads\/2022\/05\/1.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-page.json",
+                    "name": "Contact Page"
+                }
+            ],
+            "filesize": 13723,
+            "dimensions": [
+                675,
+                244
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        }
+    ]
+}

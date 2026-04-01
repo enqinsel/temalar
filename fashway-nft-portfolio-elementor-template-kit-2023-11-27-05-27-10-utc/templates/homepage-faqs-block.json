@@ -1,0 +1,117 @@
+{
+    "version": "0.4",
+    "title": "Homepage &#8211; Faqs &#8211; Block",
+    "type": "section",
+    "metadata": {
+        "template_type": "section-faq",
+        "include_in_zip": "1",
+        "elementor_pro_required": "1",
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "1b238d0",
+            "settings": {
+                "pa_condition_repeater": [
+                    {
+                        "_id": "1366adc"
+                    }
+                ]
+            },
+            "elements": [
+                {
+                    "id": "7f0c2e19",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "padding": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "pa_condition_repeater": [
+                            {
+                                "_id": "375068b"
+                            }
+                        ]
+                    },
+                    "elements": [
+                        {
+                            "id": "1e036d7b",
+                            "settings": {
+                                "ekit_accordion_items": [
+                                    {
+                                        "acc_title": "How to Change my Photo from Admin Dashboard?",
+                                        "ekit_acc_is_active": "yes",
+                                        "_id": "7ab318b"
+                                    },
+                                    {
+                                        "acc_title": "How to Change my Password easily?",
+                                        "_id": "ed8e953"
+                                    },
+                                    {
+                                        "acc_title": "How to Change my Subscription Plan using PayPal?",
+                                        "_id": "7af731d"
+                                    },
+                                    {
+                                        "acc_title": "How to Mint the NFT?",
+                                        "_id": "bb2bc45"
+                                    }
+                                ],
+                                "ekit_accordion_background_background": "classic",
+                                "ekit_accordion_background_close_background": "classic",
+                                "ekit_accordion_box_shadow_close_box_shadow_type": "yes",
+                                "ekit_accordion_box_shadow_close_box_shadow": {
+                                    "horizontal": 7,
+                                    "vertical": 4,
+                                    "blur": 0,
+                                    "spread": 0,
+                                    "color": "#FE6C19"
+                                },
+                                "pa_condition_repeater": [
+                                    {
+                                        "_id": "f96816d"
+                                    }
+                                ],
+                                "__globals__": {
+                                    "ekit_accordion_background_color": "globals\/colors?id=7202693",
+                                    "ekit_accordion_title_color": "globals\/colors?id=469fc00",
+                                    "ekit_accordion_background_close_color": "globals\/colors?id=27f4c88",
+                                    "ekit_accordion_title_color_close": "globals\/colors?id=469fc00",
+                                    "ekit_accordion_content_typography_typography": "globals\/typography?id=855b040"
+                                },
+                                "ekit_accordion_content_padding_mobile": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-accordion",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
