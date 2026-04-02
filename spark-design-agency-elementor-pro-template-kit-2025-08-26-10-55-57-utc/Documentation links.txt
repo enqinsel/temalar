@@ -1,0 +1,45 @@
+Spark - Design Agency Elementor kit is a clean, modern, and creative design Elementor Template Kit. it is design for storage service, data center, encryption data and etc. This template has beautiful and unique design that will be best suited for your online web presence. It has 100% responsive design and tested on all major handheld devices.
+
+Features:
+
+True no-code customization with drag and drop visual builder
+Customize fonts and colors in one place or fine-tune on individual elements
+Modern, professional design
+Fast-loading
+Works with most Elementor themes.
+Templates :
+
+Home
+About Us
+Benefits
+Blogs
+Career
+Pricing
+Community
+Event-Loop
+Footer
+Global
+Header
+Our-Team
+Projects
+Projects-Blogs-Loop
+services
+Single-Post-Template
+Plugins installed with kir
+
+ElementsKit Lite
+Elementor Pro upgrade is required for some templates and features (not included)
+
+How to Use Template Kits: This is not a WordPress Theme. Template kits contain the design data for Elementor only and are installed using the envato Elements plugin for WordPress or directly through Elementor.
+
+Elementor Template Kits use the Envato Elements plugin to install.
+
+Detailed Guide:
+
+https://help.market.envato.com/hc/en-us/articles/36033428836889-How-to-Upload-Install-Elementor-Template-Kits-from-Themeforest-to-WordPress
+
+For further support, go to Elementor > Get Help in WordPress menu.
+
+Images Images This Template Kit uses demo images from Envato Elements. You will need to license these images from Envato Elements to use them on your website, or you can substitute them with your own.
+
+https://elements.envato.com/collections/PE6LMTBYND?utm_source=my_collection&utm_medium=link&utm_campaign=share_collectionL

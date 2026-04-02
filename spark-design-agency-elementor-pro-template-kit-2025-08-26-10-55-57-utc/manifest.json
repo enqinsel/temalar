@@ -1,0 +1,2314 @@
+{
+    "manifest_version": "1.0.23",
+    "title": "Spark",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/kit.slabdsgn.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "community",
+            "screenshot": "screenshots\/community.jpg",
+            "source": "templates\/community.json",
+            "preview_url": "https:\/\/kit.slabdsgn.com\/spark\/?elementor_library=community",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "career",
+            "screenshot": "screenshots\/career.jpg",
+            "source": "templates\/career.json",
+            "preview_url": "https:\/\/kit.slabdsgn.com\/spark\/?elementor_library=career",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "projects",
+            "screenshot": "screenshots\/projects.jpg",
+            "source": "templates\/projects.json",
+            "preview_url": "https:\/\/kit.slabdsgn.com\/spark\/?elementor_library=projects",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "benefits",
+            "screenshot": "screenshots\/benefits.jpg",
+            "source": "templates\/benefits.json",
+            "preview_url": "https:\/\/kit.slabdsgn.com\/spark\/?elementor_library=benefits",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "blogs",
+            "screenshot": "screenshots\/blogs.jpg",
+            "source": "templates\/blogs.json",
+            "preview_url": "https:\/\/kit.slabdsgn.com\/spark\/?elementor_library=blogs",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/kit.slabdsgn.com\/spark\/?elementor_library=services",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/kit.slabdsgn.com\/spark\/?elementor_library=about",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/kit.slabdsgn.com\/spark\/?elementor_library=home",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Our Team",
+            "screenshot": "screenshots\/our-team.jpg",
+            "source": "templates\/our-team.json",
+            "preview_url": "https:\/\/kit.slabdsgn.com\/spark\/?elementor_library=our-team",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "page",
+                "additional_template_information": [
+                    "This is a \"Page\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Single Post Template",
+            "screenshot": "screenshots\/single-post-template.jpg",
+            "source": "templates\/single-post-template.json",
+            "preview_url": "https:\/\/kit.slabdsgn.com\/spark\/?elementor_library=single-post-template",
+            "type": "single-post",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "single-post",
+                "elementor_pro_conditions": [
+                    "include\/singular\/post"
+                ],
+                "additional_template_information": [
+                    "This is a \"Single Post\" template for Elementor Pro.",
+                    "This template will display on: Posts."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Event Loop",
+            "screenshot": "screenshots\/event-loop.jpg",
+            "source": "templates\/event-loop.json",
+            "preview_url": "https:\/\/kit.slabdsgn.com\/spark\/?elementor_library=elementor-loop-item-2",
+            "type": "loop-item",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-loop",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "loop-item",
+                "additional_template_information": [
+                    "This is a \"Loop Item\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Projects & Blogs Loop",
+            "screenshot": "screenshots\/projects-blogs-loop.jpg",
+            "source": "templates\/projects-blogs-loop.json",
+            "preview_url": "https:\/\/kit.slabdsgn.com\/spark\/?elementor_library=elementor-loop-item",
+            "type": "loop-item",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-loop",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "loop-item",
+                "additional_template_information": [
+                    "This is a \"Loop Item\" template for Elementor Pro."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.png",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/kit.slabdsgn.com\/spark\/?elementor_library=footer",
+            "type": "footer",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "footer",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Footer\" template for Elementor Pro.",
+                    "This template will display on: Entire site."
+                ]
+            },
+            "elementor_pro_required": true
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.png",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/kit.slabdsgn.com\/spark\/?elementor_library=header",
+            "type": "header",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": "1",
+                "elementor_library_type": "header",
+                "elementor_pro_conditions": [
+                    "include\/general"
+                ],
+                "additional_template_information": [
+                    "This is a \"Header\" template for Elementor Pro.",
+                    "This template will display on: Entire site."
+                ]
+            },
+            "elementor_pro_required": true
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "3.6.1",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.31.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "Elementor Pro",
+            "version": "3.30.0",
+            "file": "elementor-pro\/elementor-pro.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "Vector.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Vector-800x767.png",
+            "templates": [
+                {
+                    "source": "templates\/community.json",
+                    "name": "community"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "projects"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "benefits"
+                },
+                {
+                    "source": "templates\/blogs.json",
+                    "name": "blogs"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/single-post-template.json",
+                    "name": "Single Post Template"
+                }
+            ],
+            "filesize": 16688,
+            "dimensions": [
+                912,
+                874
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-1.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Vector-1.png",
+            "templates": [
+                {
+                    "source": "templates\/community.json",
+                    "name": "community"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "projects"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "benefits"
+                },
+                {
+                    "source": "templates\/blogs.json",
+                    "name": "blogs"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                },
+                {
+                    "source": "templates\/single-post-template.json",
+                    "name": "Single Post Template"
+                }
+            ],
+            "filesize": 20036,
+            "dimensions": [
+                754,
+                881
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Fictional-company-logo-9.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Fictional-company-logo-9.png",
+            "templates": [
+                {
+                    "source": "templates\/community.json",
+                    "name": "community"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "projects"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 2817,
+            "dimensions": [
+                170,
+                48
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Fictional-company-logo-8.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Fictional-company-logo-8.png",
+            "templates": [
+                {
+                    "source": "templates\/community.json",
+                    "name": "community"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "projects"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 2793,
+            "dimensions": [
+                147,
+                48
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Fictional-company-logo-7.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Fictional-company-logo-7.png",
+            "templates": [
+                {
+                    "source": "templates\/community.json",
+                    "name": "community"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "projects"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 3462,
+            "dimensions": [
+                203,
+                48
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Fictional-company-logo-6.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Fictional-company-logo-6.png",
+            "templates": [
+                {
+                    "source": "templates\/community.json",
+                    "name": "community"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "projects"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 3789,
+            "dimensions": [
+                188,
+                48
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Fictional-company-logo-5.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Fictional-company-logo-5.png",
+            "templates": [
+                {
+                    "source": "templates\/community.json",
+                    "name": "community"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/projects.json",
+                    "name": "projects"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 3123,
+            "dimensions": [
+                203,
+                48
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Vector.webp",
+            "templates": [
+                {
+                    "source": "templates\/community.json",
+                    "name": "community"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2478,
+            "dimensions": [
+                147,
+                128
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-1.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Vector-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/community.json",
+                    "name": "community"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1882,
+            "dimensions": [
+                140,
+                128
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-pin.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Sketch-annotation-element-brush-pen-icon-pin.webp",
+            "templates": [
+                {
+                    "source": "templates\/community.json",
+                    "name": "community"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1432,
+            "dimensions": [
+                148,
+                123
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Fictional-Company-Logo.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Fictional-Company-Logo.png",
+            "templates": [
+                {
+                    "source": "templates\/community.json",
+                    "name": "community"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2996,
+            "dimensions": [
+                171,
+                48
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Fictional-company-logo-1.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Fictional-company-logo-1.png",
+            "templates": [
+                {
+                    "source": "templates\/community.json",
+                    "name": "community"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2749,
+            "dimensions": [
+                168,
+                48
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Fictional-company-logo-4.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Fictional-company-logo-4.png",
+            "templates": [
+                {
+                    "source": "templates\/community.json",
+                    "name": "community"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 3242,
+            "dimensions": [
+                199,
+                48
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Fictional-company-logo-2.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Fictional-company-logo-2.png",
+            "templates": [
+                {
+                    "source": "templates\/community.json",
+                    "name": "community"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 3780,
+            "dimensions": [
+                167,
+                48
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Fictional-company-logo-3.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Fictional-company-logo-3.png",
+            "templates": [
+                {
+                    "source": "templates\/community.json",
+                    "name": "community"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 3308,
+            "dimensions": [
+                161,
+                48
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Group-117-1.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Group-117-1.png",
+            "templates": [
+                {
+                    "source": "templates\/community.json",
+                    "name": "community"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1518,
+            "dimensions": [
+                134,
+                19
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "group-of-multiethnic-teenagers-QZSFXT3.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/group-of-multiethnic-teenagers-QZSFXT3.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                }
+            ],
+            "filesize": 93768,
+            "dimensions": [
+                612,
+                408
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-QZSFXT3"
+        },
+        {
+            "filename": "Group-4560-1.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Group-4560-1.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/single-post-template.json",
+                    "name": "Single Post Template"
+                }
+            ],
+            "filesize": 4636,
+            "dimensions": [
+                156,
+                84
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Highlight-Effect-Line-1.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Highlight-Effect-Line-1.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/single-post-template.json",
+                    "name": "Single Post Template"
+                }
+            ],
+            "filesize": 1287,
+            "dimensions": [
+                97,
+                97
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Untitled.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Untitled.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                }
+            ],
+            "filesize": 6934,
+            "dimensions": [
+                148,
+                123
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-4-4.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Vector-4-4-800x860.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                }
+            ],
+            "filesize": 39298,
+            "dimensions": [
+                2366,
+                2544
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-5.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Vector-5-800x934.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "benefits"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                }
+            ],
+            "filesize": 140750,
+            "dimensions": [
+                2880,
+                3364
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "image-30-2-e1738811878709.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/image-30-2-e1738811878709.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                },
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "benefits"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                }
+            ],
+            "filesize": 233369,
+            "dimensions": [
+                800,
+                667
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Rectangle-17.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Rectangle-17-800x590.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                }
+            ],
+            "filesize": 98142,
+            "dimensions": [
+                5280,
+                3895
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "image-29-e1738811959134.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/image-29-800x1024.png",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "career"
+                }
+            ],
+            "filesize": 229261,
+            "dimensions": [
+                563,
+                720
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Smiley-Impress.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Smiley-Impress.png",
+            "templates": [
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "benefits"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1448,
+            "dimensions": [
+                32,
+                31
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-mail-open-envilope.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Sketch-annotation-element-brush-pen-icon-mail-open-envilope.png",
+            "templates": [
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "benefits"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 853,
+            "dimensions": [
+                31,
+                29
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-magnifier.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Sketch-annotation-element-brush-pen-icon-magnifier.png",
+            "templates": [
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "benefits"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1110,
+            "dimensions": [
+                30,
+                29
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-smiley-love.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Sketch-annotation-element-brush-pen-icon-smiley-love.png",
+            "templates": [
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "benefits"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1581,
+            "dimensions": [
+                29,
+                28
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-sticky-note.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Sketch-annotation-element-brush-pen-icon-sticky-note.png",
+            "templates": [
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "benefits"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1161,
+            "dimensions": [
+                29,
+                29
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-graph-monitor.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Sketch-annotation-element-brush-pen-icon-graph-monitor.png",
+            "templates": [
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "benefits"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 1009,
+            "dimensions": [
+                32,
+                29
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-4-5.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Vector-4-5-800x666.png",
+            "templates": [
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "benefits"
+                }
+            ],
+            "filesize": 13217,
+            "dimensions": [
+                1380,
+                1148
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-4-6.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Vector-4-6.png",
+            "templates": [
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "benefits"
+                }
+            ],
+            "filesize": 5281,
+            "dimensions": [
+                690,
+                575
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "image-30-1-e1738812013772.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/image-30-1-800x666.png",
+            "templates": [
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "benefits"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                }
+            ],
+            "filesize": 216610,
+            "dimensions": [
+                700,
+                583
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-4-1-1.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Vector-4-1-1.png",
+            "templates": [
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "benefits"
+                }
+            ],
+            "filesize": 4780,
+            "dimensions": [
+                690,
+                575
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-4-2-1.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Vector-4-2-1.png",
+            "templates": [
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "benefits"
+                }
+            ],
+            "filesize": 5222,
+            "dimensions": [
+                690,
+                575
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-4-3-1.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Vector-4-3-1.png",
+            "templates": [
+                {
+                    "source": "templates\/benefits.json",
+                    "name": "benefits"
+                }
+            ],
+            "filesize": 4686,
+            "dimensions": [
+                690,
+                575
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Group-112.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Group-112.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 2552,
+            "dimensions": [
+                89,
+                79
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "joyful-hispanic-businesswoman-feeling-22D2GGM.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/joyful-hispanic-businesswoman-feeling-22D2GGM.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                }
+            ],
+            "filesize": 87995,
+            "dimensions": [
+                309,
+                408
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-22D2GGM"
+        },
+        {
+            "filename": "Arrow-07-1.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Arrow-07-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 4404,
+            "dimensions": [
+                369,
+                360
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-2-1.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Vector-2-1-800x668.webp",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                },
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 98778,
+            "dimensions": [
+                5280,
+                4412
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "female-photo-assistant-with-checklist-L36A3F8.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/female-photo-assistant-with-checklist-L36A3F8.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                }
+            ],
+            "filesize": 66639,
+            "dimensions": [
+                612,
+                408
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-L36A3F8"
+        },
+        {
+            "filename": "Vector-4-1.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Vector-4-1-800x666.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                }
+            ],
+            "filesize": 40991,
+            "dimensions": [
+                2760,
+                2296
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-4.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Vector-4-800x666.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                }
+            ],
+            "filesize": 41353,
+            "dimensions": [
+                2760,
+                2297
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-4-2.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Vector-4-2-800x666.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                }
+            ],
+            "filesize": 40472,
+            "dimensions": [
+                2760,
+                2297
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-4-3.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Vector-4-3-800x666.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "services"
+                }
+            ],
+            "filesize": 42610,
+            "dimensions": [
+                2760,
+                2297
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "joyful-multicultural-students-in-hoodies-YVKV9Z6.jpg",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/joyful-multicultural-students-in-hoodies-YVKV9Z6-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 162893,
+            "dimensions": [
+                1920,
+                1279
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-YVKV9Z6"
+        },
+        {
+            "filename": "Group-4556.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Group-4556.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 2694,
+            "dimensions": [
+                96,
+                103
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Smiley-Impress-1.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Smiley-Impress-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 683,
+            "dimensions": [
+                40,
+                40
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-highfive.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Sketch-annotation-element-brush-pen-icon-highfive.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 833,
+            "dimensions": [
+                41,
+                40
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-crown.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Sketch-annotation-element-brush-pen-icon-crown.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 579,
+            "dimensions": [
+                41,
+                40
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-email-envilope.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Sketch-annotation-element-brush-pen-icon-email-envilope.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 636,
+            "dimensions": [
+                41,
+                40
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-graph-monitor-1.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Sketch-annotation-element-brush-pen-icon-graph-monitor-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 729,
+            "dimensions": [
+                40,
+                40
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-sticky-note-1.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Sketch-annotation-element-brush-pen-icon-sticky-note-1.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 611,
+            "dimensions": [
+                41,
+                40
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-ok-hand.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Sketch-annotation-element-brush-pen-icon-ok-hand.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 632,
+            "dimensions": [
+                41,
+                40
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-heart.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Sketch-annotation-element-brush-pen-icon-heart.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 557,
+            "dimensions": [
+                41,
+                40
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Line-Arrow-Spiral-Down-5-Streamline-Variable-Scribbles.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Line-Arrow-Spiral-Down-5-Streamline-Variable-Scribbles.webp",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 2782,
+            "dimensions": [
+                443,
+                443
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "indoor-shot-of-positive-good-C6C6E2K.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/indoor-shot-of-positive-good-C6C6E2K.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 41088,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-C6C6E2K"
+        },
+        {
+            "filename": "young-beautiful-woman-with-6JMD2MA.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/young-beautiful-woman-with-6JMD2MA.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 65321,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-6JMD2MA"
+        },
+        {
+            "filename": "i-know-where-im-going-C8AZGNL.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/i-know-where-im-going-C8AZGNL.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 68068,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-C8AZGNL"
+        },
+        {
+            "filename": "glad-european-female-ZFW2TZP-1-e1738812123290.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/glad-european-female-ZFW2TZP-1-e1738812123290.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 158294,
+            "dimensions": [
+                400,
+                400
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZFW2TZP"
+        },
+        {
+            "filename": "beautiful-woman-natural-portrait-NTFBPNU.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/beautiful-woman-natural-portrait-NTFBPNU.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 44426,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-NTFBPNU"
+        },
+        {
+            "filename": "man-in-white-shirt-EANVK8P.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/man-in-white-shirt-EANVK8P.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 45322,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-EANVK8P"
+        },
+        {
+            "filename": "be-the-leader-you-would-follow-CLR8A6F.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/be-the-leader-you-would-follow-CLR8A6F.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 53223,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-CLR8A6F"
+        },
+        {
+            "filename": "portrait-of-attentive-self-confident-man-BUS7RHQ.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/portrait-of-attentive-self-confident-man-BUS7RHQ.png",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 45570,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-BUS7RHQ"
+        },
+        {
+            "filename": "Group-118-4.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Group-118-4-800x486.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 15800,
+            "dimensions": [
+                2880,
+                1748
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "glad-european-female-ZFW2TZP-e1738719703219.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/glad-european-female-ZFW2TZP-e1738719703219.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 168840,
+            "dimensions": [
+                308,
+                408
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-ZFW2TZP"
+        },
+        {
+            "filename": "Group-4562-2.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/Group-4562-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 28829,
+            "dimensions": [
+                776,
+                541
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector2.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Vector2.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4020,
+            "dimensions": [
+                438,
+                112
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-11.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Vector-11.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3052,
+            "dimensions": [
+                448,
+                112
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-21.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Vector-21.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2676,
+            "dimensions": [
+                281,
+                112
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-3.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Vector-3.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4648,
+            "dimensions": [
+                501,
+                112
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-4.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Vector-4.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 4558,
+            "dimensions": [
+                500,
+                128
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Abstract-Ribbon-Vine-Line-4-Streamline-Variable-Scribbles.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Abstract-Ribbon-Vine-Line-4-Streamline-Variable-Scribbles.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3570,
+            "dimensions": [
+                744,
+                536
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Group-4563.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/Group-4563.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 16049,
+            "dimensions": [
+                336,
+                336
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "close-up-portrait-of-asian-girl-WFKXWXS-e1738720164654.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/close-up-portrait-of-asian-girl-WFKXWXS-e1738720164654.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 120641,
+            "dimensions": [
+                373,
+                408
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-WFKXWXS"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-sticky-note.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Sketch-annotation-element-brush-pen-icon-sticky-note.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 5116,
+            "dimensions": [
+                233,
+                231
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-magnifier.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Sketch-annotation-element-brush-pen-icon-magnifier.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1894,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-ok-hand.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Sketch-annotation-element-brush-pen-icon-ok-hand.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2342,
+            "dimensions": [
+                160,
+                160
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Arrow-07.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Arrow-07.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 3034,
+            "dimensions": [
+                167,
+                351
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector1-1.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Vector1-1.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 2388,
+            "dimensions": [
+                276,
+                180
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-2.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Vector-2.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 2054,
+            "dimensions": [
+                238,
+                232
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Rectangle-15.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Rectangle-15.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 5402,
+            "dimensions": [
+                705,
+                437
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Frame-202.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/Frame-202.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 12029,
+            "dimensions": [
+                640,
+                452
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "we-love-everything-out-jobs-VW4LWNG.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/we-love-everything-out-jobs-VW4LWNG.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 98607,
+            "dimensions": [
+                600,
+                416
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-VW4LWNG"
+        },
+        {
+            "filename": "Group-118-2.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Group-118-2-800x1151.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 145238,
+            "dimensions": [
+                1670,
+                2402
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Sketch-annotation-element-brush-pen-icon-sticky-note1.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Sketch-annotation-element-brush-pen-icon-sticky-note1.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 9062,
+            "dimensions": [
+                402,
+                399
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Group-117.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Group-117.webp",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 1772,
+            "dimensions": [
+                267,
+                38
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "group-of-diverse-TL5Y2Y3.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/group-of-diverse-TL5Y2Y3-800x378.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 179961,
+            "dimensions": [
+                1000,
+                472
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-TL5Y2Y3"
+        },
+        {
+            "filename": "young-happy-mixed-race-NB86ZEK.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/young-happy-mixed-race-NB86ZEK.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 60199,
+            "dimensions": [
+                500,
+                500
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-NB86ZEK"
+        },
+        {
+            "filename": "happy-friends-from-diverse-cultures-and-races-taki-BGYTKJ8.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/02\/happy-friends-from-diverse-cultures-and-races-taki-BGYTKJ8.png",
+            "templates": [
+                {
+                    "source": "templates\/our-team.json",
+                    "name": "Our Team"
+                }
+            ],
+            "filesize": 90974,
+            "dimensions": [
+                612,
+                408
+            ],
+            "image_source": "envato_elements",
+            "image_urls": "https:\/\/elements.envato.com\/image-BGYTKJ8"
+        },
+        {
+            "filename": "joyful-business-team-waving-office-stairway-1-e1738812194665.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2025\/01\/joyful-business-team-waving-office-stairway-1-800x620.png",
+            "templates": [
+                {
+                    "source": "templates\/single-post-template.json",
+                    "name": "Single Post Template"
+                }
+            ],
+            "filesize": 246087,
+            "dimensions": [
+                480,
+                372
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Vector-3.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Vector-3-800x967.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 22523,
+            "dimensions": [
+                1046,
+                1265
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Rectangle-19.png",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Rectangle-19-800x571.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 32122,
+            "dimensions": [
+                2880,
+                2054
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        },
+        {
+            "filename": "Frame-226.webp",
+            "thumbnail_url": "https:\/\/kit.slabdsgn.com\/spark\/wp-content\/uploads\/sites\/6\/2024\/11\/Frame-226.webp",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                }
+            ],
+            "filesize": 4944,
+            "dimensions": [
+                643,
+                326
+            ],
+            "image_source": "self_created",
+            "image_urls": "https:\/\/www.figma.com\/design\/KlVBdjBjFyqW2K4RtKdWoV\/12.-Aghnie---Spark-Landing-Page?node-id=20-35&t=2MVkANxDW0QZvvh3-0"
+        }
+    ]
+}
